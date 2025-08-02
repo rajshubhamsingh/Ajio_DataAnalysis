@@ -1,4 +1,4 @@
-# 🛍️ AJIO Data Analysis Project
+# 🛍️ AJIO EDA Data Analysis Project
 
 A data-driven analytics project focused on **AJIO** — one of India's top fashion e-commerce platforms by Reliance. This project analyzes key aspects of AJIO's business using multiple datasets to uncover insights around customer behavior, pricing strategy, product distribution, and operational efficiency.
 
